@@ -26,5 +26,6 @@ function drawPoints (canvasOverlay, params) {
 
   });
             ctx.strokeStyle = '#ffffff';
+            ctx.lineCap = 'round';
           ctx.stroke();
 }
