@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Stalk Enze</title>
+    <title>Map Demo</title>
     <link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.5/mapbox.css' rel='stylesheet' />
     <link rel="stylesheet" href="stylesheets/styles.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -13,7 +13,7 @@
 
     <script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.5/mapbox.js'></script>
     <script src="javascripts/L.CanvasOverlay.js"></script>
-    <script src="data/stalkmenow.js"></script>
+    <script src="data/mumbai-data.js"></script>
     <!-- <script src="data/history-02-01-2015-data.js"></script> -->
     <!-- <script src="data/caylus-data.js"></script> -->
     <!-- <script src="data/the_whole_map-data.js"></script> -->
