@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 function drawMap () {
   var canvasTiles = L.tileLayer.canvas();
-  var map = L.mapbox.map('map', 'fooenze.11a7a104').setView([103.8126, 1.3395], 12);
+  var map = L.mapbox.map('map', 'fooenze.11a7a104').setView([1.3395, 103.8126], 12);
 
   L.canvasOverlay().drawing(drawPoints).addTo(map);
 }
